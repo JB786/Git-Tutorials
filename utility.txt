@@ -1,2 +1,2 @@
 utility function for version 1.
-version 2 is on the way.
+version 2 is on the way--------
